@@ -1,0 +1,17 @@
+node_modules/
+.DS_Store
+.idea/
+
+public/components/
+public/javascripts/
+public/stylesheets/
+
+*.swp
+*.bak
+npm-debug.log
+
+.sass-cache/
+
+config/runtime.json
+*.log
+test/coverage/

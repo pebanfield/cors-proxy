@@ -1,0 +1,17 @@
+{
+  "name": "sling-proxy",
+  "version": "0.0.0",
+  "author": {
+    "name": "pebanfield"
+  },
+  "licenses": {
+    "type": ""
+  },
+  "scripts": {
+    "start": "node ./server.js"
+  },
+  "dependencies": {
+    "cors-anywhere": "^0.2.5"
+  },
+  "devDependencies": {}
+}
